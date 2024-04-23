@@ -14,6 +14,7 @@ class Square extends Square_ {
       for (let j = 0; j < this.size; j++) {
         row += c;
       }
+
       console.log(row);
       row = '';
     }
